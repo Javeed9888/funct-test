@@ -1,14 +1,20 @@
 {
   "name": "desktop",
   "version": "1.0.0",
-  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "func start",
-    "test": "echo \"No tests yet...\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@azure/functions": "^4.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javeed9888/funct-test.git"
   },
-  "devDependencies": {},
-  "main": "src/{index.js,functions/*.js}"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javeed9888/funct-test/issues"
+  },
+  "homepage": "https://github.com/Javeed9888/funct-test#readme",
+  "description": ""
 }
